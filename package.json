@@ -2,7 +2,7 @@
   "name": "custom-build",
   "description": "This directory is a brief example of using a Custom Build script that can be deployed with Vercel and zero configuration.",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "api/index.js",
   "author": "",
   "license": "ISC",
   "dependencies": {
